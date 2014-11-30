@@ -1,5 +1,0 @@
-/*
- * file:
- * author: reAsOn
- * date:
- */
